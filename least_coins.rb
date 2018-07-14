@@ -39,7 +39,7 @@ cents
 
 end 
 
-puts least_coins("26")
+puts least_coins(cents)
 
 
   
